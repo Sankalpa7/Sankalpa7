@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sankalpa Neupane. 
 - 👀 I’m interested in Web development, Data Science and Machine Learning
 - 🌱 I’m currently learning Python and Elments of AI
-- 💞️ I’m looking to collaborate on all kind of project related to web development.
+- 💞️ I’m looking to collaborate on all kind of project related to software development.
 - 📫 sankalpaneupane7@gmail.com
 
 <!---
