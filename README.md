@@ -106,10 +106,10 @@
 <p align="center">
   <!-- Replace Project1 and Project2 with your actual repositories -->
   <a href="https://github.com/Sankalpa7/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Project1&theme=radical" alt="Project1" />
+    <img src="https://github.com/Sankalpa7/Flight-Website-Web-scrapping" alt="Project1" />
   </a>
   <a href="https://github.com/Sankalpa7/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Project2&theme=radical" alt="Project2" />
+    <img src="https://github.com/Sankalpa7/Score-Prediction-data-analysis-and-visualization" alt="Project2" />
   </a>
 </p>
 
