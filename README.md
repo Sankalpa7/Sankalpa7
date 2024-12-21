@@ -1,7 +1,4 @@
-<!-- Banner or Profile Header (Optional) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Sankalpa+Neupane" alt="Banner" />
-</p>
+
 
 <h1 align="center">
   Hello, I'm <a href="https://github.com/Sankalpa7">Sankalpa Neupane</a>!
@@ -104,12 +101,13 @@
 ## :star2: Featured Projects
 
 <p align="center">
-  <!-- Replace Project1 and Project2 with your actual repositories -->
-  <a href="https://github.com/Sankalpa7/Project1">
-    <img src="https://github.com/Sankalpa7/Flight-Website-Web-scrapping" alt="Project1" />
+  <!-- Score Prediction Data Analysis & Visualization -->
+  <a href="https://github.com/Sankalpa7/Score-Prediction-data-analysis-and-visualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Score-Prediction-data-analysis-and-visualization&theme=radical" alt="Score Prediction Data Analysis & Visualization" />
   </a>
-  <a href="https://github.com/Sankalpa7/Project2">
-    <img src="https://github.com/Sankalpa7/Score-Prediction-data-analysis-and-visualization" alt="Project2" />
+  <!-- Flight Website Web Scraping -->
+  <a href="https://github.com/Sankalpa7/Flight-Website-Web-scrapping">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Flight-Website-Web-scrapping&theme=radical" alt="Flight Website Web Scraping" />
   </a>
 </p>
 
