@@ -81,10 +81,9 @@
 ## :chart_with_upwards_trend: Activity Graph
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sankalpa7&theme=dracula&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
+
+[![Sankalpa7's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## :trophy: Trophies
