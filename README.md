@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Sankalpa%20Neupane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Sankalpa%20Neupane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">
@@ -7,26 +7,26 @@ Frontend Developer • Computer Engineering Student • Data & Cybersecurity Ent
 </h3>
 
 <p align="center">
-I enjoy building modern web applications, exploring data-driven systems, and continuously improving through real-world projects.
+I build modern web experiences, explore data-driven systems, and continuously grow through real-world tech projects.
 </p>
 
 <p align="center">
-<a href="https://portfolio-sankalpa.vercel.app">
-<img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portfolio-sankalpa.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:sankalpaneupane7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sankalpaneupane7/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sankalpa%20Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 ```yaml
 Name: Sankalpa Neupane
@@ -36,7 +36,7 @@ Education:
   MSc Computer Engineering
   Åbo Akademi University
 
-Interests:
+Focus Areas:
   - Frontend Development
   - Data Analytics
   - Cybersecurity
@@ -55,68 +55,24 @@ Philosophy:
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,react,nextjs,nodejs,mongodb,mysql,azure,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,java,react,nextjs,nodejs,mongodb,mysql,azure,docker,git,github,linux,vscode&perline=7"/>
 </p>
 
 ---
 
----
+## 🧠 Currently Working On
+
+- Building modern frontend projects  
+- Learning Cloud & Cybersecurity  
+- Developing data analysis tools  
+- Improving system design knowledge  
 
 ---
 
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Sankalpa7/Sales_Prediction">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Sales_Prediction&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sankalpa7/Score-Prediction-data-analysis-and-visualization">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Score-Prediction-data-analysis-and-visualization&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sankalpa7/Flight-Website-Web-scrapping">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Flight-Website-Web-scrapping&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sankalpa7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa7&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sankalpa7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sankalpa7/Sankalpa7/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -125,11 +81,11 @@ Philosophy:
 </a>
 
 <a href="https://www.linkedin.com/in/sankalpaneupane7/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-sankalpa.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel"/>
+<a href="https://portfolio-sankalpa.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -137,10 +93,8 @@ Philosophy:
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sankalpa7&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Sankalpa7&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
----
 
 <p align="center">
 ⭐ If you like my work, consider following me!
