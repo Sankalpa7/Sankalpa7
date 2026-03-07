@@ -65,18 +65,23 @@ Philosophy:
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
+<a href="https://github.com/Sankalpa7/Sales_Prediction">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Sales_Prediction&theme=tokyonight&hide_border=true"/>
+</a>
+
 <a href="https://github.com/Sankalpa7/Score-Prediction-data-analysis-and-visualization">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Score-Prediction-data-analysis-and-visualization&theme=tokyonight&hide_border=true" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Score-Prediction-data-analysis-and-visualization&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Sankalpa7/Flight-Website-Web-scrapping">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Flight-Website-Web-scrapping&theme=tokyonight&hide_border=true" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Flight-Website-Web-scrapping&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -99,12 +104,6 @@ Philosophy:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sankalpa7&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
----
 
 # 🏆 GitHub Achievements
 
