@@ -57,9 +57,9 @@ Mindset:
   - Build things
   - Learn constantly
   - Improve every day
-
+```
 🧰 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,java,react,nextjs,nodejs,mongodb,mysql,azure,docker,git,github,linux,vscode"/> </p> ```
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,java,react,nextjs,nodejs,mongodb,mysql,azure,docker,git,github,linux,vscode"/> </p> 
 🧠 Currently Working On
 
 • Building modern frontend projects
