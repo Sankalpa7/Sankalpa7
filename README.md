@@ -67,31 +67,29 @@ Philosophy:
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/Sankalpa7/Sales_Prediction">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Sales_Prediction&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Sankalpa7/Score-Prediction-data-analysis-and-visualization">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Score-Prediction-data-analysis-and-visualization&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Sankalpa7/Flight-Website-Web-scrapping">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Flight-Website-Web-scrapping&theme=tokyonight&hide_border=true"/>
-</a>
+  <a href="https://github.com/Sankalpa7/Sales_Prediction">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Sales_Prediction&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Sankalpa7/Score-Prediction-data-analysis-and-visualization">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Score-Prediction-data-analysis-and-visualization&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Sankalpa7/Flight-Website-Web-scrapping">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalpa7&repo=Flight-Website-Web-scrapping&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sankalpa7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa7&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sankalpa7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -99,19 +97,16 @@ Philosophy:
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa7&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa7&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sankalpa7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sankalpa7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
-
----
 
 # 🐍 Contribution Snake
 
